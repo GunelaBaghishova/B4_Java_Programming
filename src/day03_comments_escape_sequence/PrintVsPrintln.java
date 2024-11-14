@@ -11,6 +11,8 @@ public class PrintVsPrintln {
         System.out.print("Tom");
         System.out.print("");
         System.out.println(" and Jerry");
+        System.out.println(" and Jerry");
+        System.out.println(" and Jerry");
 
 
     }
